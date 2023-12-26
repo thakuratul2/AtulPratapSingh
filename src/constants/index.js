@@ -63,50 +63,24 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Website Developer",
-        company_name: "Flymax Pvt. Ltd.",
-        date: "May 2022 - July 2022",
+        title: "Website Developer Intern",
+        company_name: "The Sparks Foundation",
+        date: "January 2022 - March 2022",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "I gained practical experience in front-end technologies such as HTML, CSS, JS.",
+            "Collaborated with cross-functional teams of developers and designers to contribute to the developement of responsice and user-friendle educational and e-commerce websites."
         ],
     },
     {
-        title: "Backend Developer",
-        company_name: "Allied Web Design & Software",
-        
-        date: "August 2022 - October 2022",
+        title: "Mentor",
+        company_name: "BR SoftSol",
+        date: "April 2022 - October 2022",
         points: [
-            "Developed end-to-end solutions for multiple projects using PHP, MySQL, and Laravel technologies.",
-            "Built high-impact features, including subscription models and Admin Panels.",
-            "Contributing to Allied Company's growth by assisting in the development of scalable solutions for millions.",
+            "Assisted students in learning concepts of technical writing.",
+            "Conducted doubt resolution sessions, addressing over 100+ queries and maintaining an average rating of 4.5."
         ],
     },
-    {
-        title: "WordPress Developer",
-        company_name: "EduClouds Pvt. Ltd.",
-       
-        date: "January 2023 - March 2023",
-        points: [
-            "Implemented a multilingual feature enabling website users to select from various languages for an enhanced user experience.",
-"Successfully developed multiple websites using WordPress technology.",
-"Revamped two main screens & fixed bugs.",
-        ],
-    },
-    {
-        title: "Full stack Developer",
-        company_name: "Sirpi Products & Services Pvt. Ltd.",
-        
-        date: "July 2023 - November 2023",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
+    
 ];
 
 export const socialLinks = [
@@ -126,20 +100,17 @@ export const socialLinks = [
 export const projects = [
     {
         
-        name: 'MIET BR APP ADMIN',
-        description: 'This Admin panel website utilizes to built with Php and MySql, allowing for easy CRUD operations on user profiles, notices and admin panel. The user interface is designed for efficient student management and includes a complete process. The admin panel, accessible for CRUD on users and add teachers, includes a chart for statistics display.',
-        link: 'https://github.com/thakuratul2/MIETAPP_ADMIN',
+        name: 'EDUBUZZ',
+        description: "An educational website that caters to the academic needs of students in Engineering Domain using basic Frontend Technologies. Implemented user-friendly navigation and intuitive UI/UX design on the EduBuzz platform, facilitating seamless access to DBMS, OS, and various subject materials. Developed educational resources for different programming languages such as C, C++ etc.",             
     },
     {
        
-        name: 'Early Brain Magic Website',
-        description: 'This solution providing website built with Html, Css, Javascript. It displayed on a user-friendly interface designed using Bootstrap and styled-components for a seamless experience.',
-        link: 'https://github.com/thakuratul2/BUYBusiness-Internship-',
+        name: 'ATM SIMULATOR',
+        description: 'Developed an ATM simulator project to simulate real-world ATM interactions. Developed a basic ATM simulator using Java, enabling users to simulate common ATM transactions and interactions in a user-friendly command-line interface. Used different concepts of core java for smooth implementation.',
     },
     {
-        name: 'Gurukul Website',
-        description: 'I ve made fully responsive gurkul website which content all the activity performend like events, publish notices.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        name: 'WEATHER APP',
+        description: 'Creating Weather App in Flutter. Created a weather app from the OpenWeatherAPI data by making an HTTP request to API using GETX. Created a model for storing data and using the models on our screen, and used a lot of best practices that should be taken into consideration while working on complex projects',
     },
     
 ];
