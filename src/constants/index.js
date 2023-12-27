@@ -9,14 +9,8 @@ import {
     javascript,
     linkedin,
     nodejs,
-    pricewise,
     react,
-    
-   
-    snapgram,
-    summiz,
-    
-    threads,
+
     
 } from "../assets/icons";
 
@@ -26,7 +20,7 @@ export const skills = [
         name: "CSS",
         type: "Frontend",
     },
-   
+  
     {
         imageUrl: git,
         name: "Git",
