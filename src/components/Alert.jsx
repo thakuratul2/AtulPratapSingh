@@ -11,6 +11,7 @@ const Alert = ({ type, text }) => {
           className={`flex rounded-full ${
             
             type === "danger" ? "bg-red-500" : "bg-blue-500"
+            
           } uppercase px-2 py-1 text-xs font-semibold mr-3`}
         >
           {type === "danger" ? "Failed" : "Success"}
