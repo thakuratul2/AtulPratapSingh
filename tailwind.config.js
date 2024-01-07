@@ -12,6 +12,7 @@ export default {
         },
         black: {
           DEFAULT: "#000",
+          
           500: "#1D2235"
         },
         blue: {
