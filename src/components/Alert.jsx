@@ -16,6 +16,7 @@ const Alert = ({ type, text }) => {
         <p
           className={`flex rounded-full ${
             
+            
             type === "danger" ? "bg-red-500" : "bg-blue-500"
             
             
