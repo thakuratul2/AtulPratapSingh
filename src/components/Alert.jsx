@@ -22,6 +22,7 @@ const Alert = ({ type, text }) => {
             
           } uppercase px-2 py-1 text-xs font-semibold mr-3`}
           
+          
         >
           {type === "danger" ? "Failed" : "Success"}
           
