@@ -14,6 +14,7 @@ const Alert = ({ type, text }) => {
         role='alert'
       >
         <p
+        
           className={`flex rounded-full ${
             
             
@@ -24,7 +25,8 @@ const Alert = ({ type, text }) => {
           
           
         >
-          {type === "danger" ? "Failed" : "Success"}
+          {type === "danger" ? "Failed" : "Success"
+          }
           
         </p>
         <p className='mr-2 text-left'>{text}</p>
