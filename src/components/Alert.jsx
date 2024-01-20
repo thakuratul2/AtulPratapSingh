@@ -25,7 +25,9 @@ const Alert = ({ type, text }) => {
           
           
         >
-          {type === "danger" ? "Failed" : "Success"
+          {
+            type === "danger" ? "Failed" : "Success"
+
           }
           
         </p>
