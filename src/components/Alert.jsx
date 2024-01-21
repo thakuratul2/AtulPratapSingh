@@ -31,7 +31,8 @@ const Alert = ({ type, text }) => {
           }
           
         </p>
-        <p className='mr-2 text-left'>{text}</p>
+        <p className='mr-2 text-left'>{text}
+        </p>
       </div>
     </div>
   );
