@@ -7,6 +7,7 @@ const Navbar = () => {
   return (
     
     <header className='header'>
+    
       <NavLink to='/'>
         
       </NavLink>
