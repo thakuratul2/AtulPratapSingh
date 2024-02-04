@@ -9,6 +9,7 @@ const CTA = () => {
         Let’s build something together!
       </p>
       <Link to='/contact' className='btn'>
+      
         Contact
       </Link>
     </section>
