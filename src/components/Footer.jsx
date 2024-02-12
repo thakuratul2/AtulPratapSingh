@@ -8,6 +8,7 @@ const Footer = () => {
       <hr className='border-slate-200' />
 
       <div className='footer-container'>
+      
         <p>
           © 2023 <strong>Swati Paliwal</strong>. All rights reserved.
         </p>
