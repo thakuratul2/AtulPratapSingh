@@ -21,6 +21,7 @@ const Footer = () => {
             <Link key={link.name} to={link.link} target='_blank'>
             
               <img
+              
                 src={link.iconUrl}
                 
                 alt={link.name}
