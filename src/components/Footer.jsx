@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { socialLinks } from "../constants";
 
 const Footer = () => {
+  
   return (
     <footer className='footer font-poppins'>
     
