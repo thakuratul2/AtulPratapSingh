@@ -17,8 +17,9 @@ const HomeInfo = ({ currentStage }) => {
   if (currentStage === 2) {
     return (
       <div className='info-box'>
-      
+
         <p className='font-medium sm:text-xl text-center'>
+        
           Worked with many companies <br /> and picked up many skills along the way
         </p>
 
