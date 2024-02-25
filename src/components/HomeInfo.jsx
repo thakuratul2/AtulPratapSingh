@@ -17,6 +17,7 @@ const HomeInfo = ({ currentStage }) => {
   if (currentStage === 2) {
     
     return (
+      
       <div className='info-box'>
 
         <p className='font-medium sm:text-xl text-center'>
