@@ -32,6 +32,7 @@ const Footer = () => {
                 className='w-6 h-6 object-contain'
                 
               />
+              
             </Link>
           ))}
         </div>
