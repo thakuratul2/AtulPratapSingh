@@ -34,6 +34,7 @@ const Footer = () => {
               />
               
             </Link>
+            
           ))}
         </div>
       </div>
