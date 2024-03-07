@@ -32,7 +32,9 @@ const HomeInfo = ({ currentStage }) => {
         
           Learn more
           <img src={arrow} alt='arrow' className='w-4 h-4 object-contain' />
+
         </Link>
+        
       </div>
     );
   }
