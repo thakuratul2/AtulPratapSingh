@@ -41,6 +41,7 @@ const HomeInfo = ({ currentStage }) => {
 
   if (currentStage === 3) {
     return (
+    
       <div className='info-box'>
       
         <p className='font-medium text-center sm:text-xl'>
