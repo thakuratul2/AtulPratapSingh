@@ -48,6 +48,7 @@ const HomeInfo = ({ currentStage }) => {
         <p className='font-medium text-center sm:text-xl'>
         
           Led multiple projects to success over the years. <br /> Curious about the impact?
+          
         </p>
 
         <Link to='/projects' className='neo-brutalism-white neo-btn'>
