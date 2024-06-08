@@ -54,6 +54,7 @@ const HomeInfo = ({ currentStage }) => {
 
         <Link to='/projects' className='neo-brutalism-white neo-btn'>
           Visit my portfolio
+          
           <img src={arrow} alt='arrow' className='w-4 h-4 object-contain' />
         </Link>
       </div>
